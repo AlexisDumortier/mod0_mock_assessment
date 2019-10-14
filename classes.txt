@@ -1,0 +1,35 @@
+Class: Chair
+
+Attributes:
+color (string)
+height (float)
+material (string)
+price (float)
+number_legs (integer)
+bought_before_2018 (boolean)
+owner (array)  # list of owners
+
+Methods:
+paint (changes the color attribute)
+restore (adds 50 dollars to the price attribute)
+damage (subtracts 50 dollars from the price attribute)
+sell (appends the name of the new owner to the owner_list array)
+
+
+Class: Boat
+
+Attributes:
+weight (integer)
+name (integer)
+type (string)
+built_year (integer)
+max_speed (integer)
+price (integer)
+total_capacity (integer)
+current_capacity (integer)
+
+Methods:
+drive (decreases the attribute current_capacity)
+tune_engine (increases the attributes max_speed)
+add_extra_cabin (increases the weight attribute by the cabin weight)
+refill_tank (sets current_capacity to total_capacity)

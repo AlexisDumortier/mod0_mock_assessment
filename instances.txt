@@ -1,0 +1,69 @@
+Object : chair1
+
+Attributes:
+color: "black"
+height: 50
+material: "wood"
+price: 125.5
+number_legs: 4
+bought_before_2018: False
+owner: ["Mark Smith", "George Costenza", "Brad Dorn"]
+
+Methods:
+paint: color = "white"
+restore: 125.5 + 50 = 175.5
+damage: 125.5 - 50 = 75.5
+sell: owner = ["Mark Smith", "George Costenza", "Brad Dorn", "Tim Jones"]
+
+Object : chair2
+
+Attributes:
+color: "light blue"
+height: 75
+material: "metal"
+price: 99.90
+number_legs: 3
+bought_before_2018: True
+owner: ["Matthew Dane", "Anne LePenven"]
+
+Methods:
+paint: color = "dark blue"
+restore: 99.9 + 50 = 149.9
+damage: 99.9 - 50 = 49.9
+sell: owner =  ["Matthew Dane", "Anne LePenven", "Adrian Trivet"]
+
+Object : Boat1
+
+Attributes:
+weight: 2500
+name: "Trinity"
+type: "sailing boat"
+built_year: 2007
+max_speed: 40
+price: 45000
+total_capacity: 250
+current_capacity: 200
+
+Methods:
+drive: 200-10 = 190
+tune_engine: 40 + 5 = 45
+add_extra_cabin: 2500 + 300 = 2800
+refill_tank: current_capacity = 250
+
+Object : Boat2
+
+Attributes:
+weight: 3200
+name: "Destiny"
+type: "cruise boat"
+built_year: 2011
+max_speed: 50
+price: 65000
+current_capacity: 330
+total_capacity: 400
+
+Methods:
+drive: 330 - 10 = 320
+tune_engine: 50 + 5 = 55
+add_extra_cabin: 3200 + 300 = 3500
+refill_tank : current_capacity = 400

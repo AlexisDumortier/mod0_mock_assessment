@@ -1,0 +1,50 @@
+Making a sandwich - top down design approach
+
+1 Gather ingredients
+  1.1 Walk to the fridge
+  1.2 Open the door
+  1.3 Take ingredients out of the fridge
+    1.3.1 Take out the cheese
+    1.3.2 Take out the salad
+    1.3.3 Take out the mayonnaise
+  1.4 Close the door
+  1.5 Bring ingredients to the kitchen table
+2 Prepare some bread
+  2.1 Open kitchen cabinet
+  2.2 Take out two slices of whole wheat bread
+  2.3 Close kitchen cabinet
+3 Prepare sandwich filling
+  3.1 Prepare the cheese
+    3.1.1 Take the cheese out of its wrapping
+    3.1.2 Take a knife
+      3.1.2.1 walk to the kitchen drawer
+      3.1.2.2 open the drawer
+      3.1.2.3 take out a knife
+      3.1.2.4 close the drawer
+      3.1.2.5 bring knife back to the kitchen table
+    3.1.3 Slice the cheese
+    3.1.4 Put the rest of cheese back in its wrapping
+  3.2 Prepare the salad
+    3.2.1 Grab the salad
+    3.2.2 Walk to the kitchen sink
+    3.2.3 Cut out three leaves of salad
+    3.2.4 Wash the leaves
+    3.2.5 Dry the salad
+4 Bring the parts together
+  4.1 Place first slice of bread on the kitchen table
+  4.2 Add mayonnaise on top
+    4.2.1 Get a spoon
+      4.2.1.1 walk to the kitchen drawer
+      4.2.1.2 open the drawer
+      4.2.1.3 take out a spoon
+      4.2.1.4 close the drawer
+      4.2.1.1 walk back to the kitchen table
+    4.2.2 Remove the lid from the mayonnaise jar
+    4.2.3 Take a spoon of mayonnaise
+    4.2.4 Spread the mayonnaise on the slice of bread
+  4.3 Cover slice of bread with slices of cheese
+  4.4 Cover slices of cheese with leaves of salad
+  4.5 Place the second slice of bread on top of the salad
+5 Clean up
+  5.1 Take the spoon and the knife to the kitchen sink
+  5.2 Take the ingredients back to the fridge
